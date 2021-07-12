@@ -1,0 +1,2139 @@
+{
+  "truncate": [
+    "overflow-hidden",
+    "overflow-ellipsis",
+    "whitespace-nowrap"
+  ],
+  "-inset-0": [
+    "-top-0",
+    "-right-0",
+    "-bottom-0",
+    "-left-0"
+  ],
+  "-inset-y-0": [
+    "-top-0",
+    "-bottom-0"
+  ],
+  "inset-0.5": [
+    "top-0.5",
+    "right-0.5",
+    "bottom-0.5",
+    "left-0.5"
+  ],
+  "-inset-0.5": [
+    "-top-0.5",
+    "-right-0.5",
+    "-bottom-0.5",
+    "-left-0.5"
+  ],
+  "inset-y-0.5": [
+    "top-0.5",
+    "bottom-0.5"
+  ],
+  "-inset-y-0.5": [
+    "-top-0.5",
+    "-bottom-0.5"
+  ],
+  "inset-1": [
+    "top-1",
+    "right-1",
+    "bottom-1",
+    "left-1"
+  ],
+  "-inset-1": [
+    "-top-1",
+    "-right-1",
+    "-bottom-1",
+    "-left-1"
+  ],
+  "inset-y-1": [
+    "top-1",
+    "bottom-1"
+  ],
+  "-inset-y-1": [
+    "-top-1",
+    "-bottom-1"
+  ],
+  "inset-1.5": [
+    "top-1.5",
+    "right-1.5",
+    "bottom-1.5",
+    "left-1.5"
+  ],
+  "-inset-1.5": [
+    "-top-1.5",
+    "-right-1.5",
+    "-bottom-1.5",
+    "-left-1.5"
+  ],
+  "inset-y-1.5": [
+    "top-1.5",
+    "bottom-1.5"
+  ],
+  "-inset-y-1.5": [
+    "-top-1.5",
+    "-bottom-1.5"
+  ],
+  "inset-2": [
+    "top-2",
+    "right-2",
+    "bottom-2",
+    "left-2"
+  ],
+  "-inset-2": [
+    "-top-2",
+    "-right-2",
+    "-bottom-2",
+    "-left-2"
+  ],
+  "inset-y-2": [
+    "top-2",
+    "bottom-2"
+  ],
+  "-inset-y-2": [
+    "-top-2",
+    "-bottom-2"
+  ],
+  "inset-2.5": [
+    "top-2.5",
+    "right-2.5",
+    "bottom-2.5",
+    "left-2.5"
+  ],
+  "-inset-2.5": [
+    "-top-2.5",
+    "-right-2.5",
+    "-bottom-2.5",
+    "-left-2.5"
+  ],
+  "inset-y-2.5": [
+    "top-2.5",
+    "bottom-2.5"
+  ],
+  "-inset-y-2.5": [
+    "-top-2.5",
+    "-bottom-2.5"
+  ],
+  "inset-3": [
+    "top-3",
+    "right-3",
+    "bottom-3",
+    "left-3"
+  ],
+  "-inset-3": [
+    "-top-3",
+    "-right-3",
+    "-bottom-3",
+    "-left-3"
+  ],
+  "inset-y-3": [
+    "top-3",
+    "bottom-3"
+  ],
+  "-inset-y-3": [
+    "-top-3",
+    "-bottom-3"
+  ],
+  "inset-3.5": [
+    "top-3.5",
+    "right-3.5",
+    "bottom-3.5",
+    "left-3.5"
+  ],
+  "-inset-3.5": [
+    "-top-3.5",
+    "-right-3.5",
+    "-bottom-3.5",
+    "-left-3.5"
+  ],
+  "inset-y-3.5": [
+    "top-3.5",
+    "bottom-3.5"
+  ],
+  "-inset-y-3.5": [
+    "-top-3.5",
+    "-bottom-3.5"
+  ],
+  "inset-4": [
+    "top-4",
+    "right-4",
+    "bottom-4",
+    "left-4"
+  ],
+  "-inset-4": [
+    "-top-4",
+    "-right-4",
+    "-bottom-4",
+    "-left-4"
+  ],
+  "inset-y-4": [
+    "top-4",
+    "bottom-4"
+  ],
+  "-inset-y-4": [
+    "-top-4",
+    "-bottom-4"
+  ],
+  "inset-5": [
+    "top-5",
+    "right-5",
+    "bottom-5",
+    "left-5"
+  ],
+  "-inset-5": [
+    "-top-5",
+    "-right-5",
+    "-bottom-5",
+    "-left-5"
+  ],
+  "inset-y-5": [
+    "top-5",
+    "bottom-5"
+  ],
+  "-inset-y-5": [
+    "-top-5",
+    "-bottom-5"
+  ],
+  "inset-6": [
+    "top-6",
+    "right-6",
+    "bottom-6",
+    "left-6"
+  ],
+  "-inset-6": [
+    "-top-6",
+    "-right-6",
+    "-bottom-6",
+    "-left-6"
+  ],
+  "inset-y-6": [
+    "top-6",
+    "bottom-6"
+  ],
+  "-inset-y-6": [
+    "-top-6",
+    "-bottom-6"
+  ],
+  "inset-7": [
+    "top-7",
+    "right-7",
+    "bottom-7",
+    "left-7"
+  ],
+  "-inset-7": [
+    "-top-7",
+    "-right-7",
+    "-bottom-7",
+    "-left-7"
+  ],
+  "inset-y-7": [
+    "top-7",
+    "bottom-7"
+  ],
+  "-inset-y-7": [
+    "-top-7",
+    "-bottom-7"
+  ],
+  "inset-8": [
+    "top-8",
+    "right-8",
+    "bottom-8",
+    "left-8"
+  ],
+  "-inset-8": [
+    "-top-8",
+    "-right-8",
+    "-bottom-8",
+    "-left-8"
+  ],
+  "inset-y-8": [
+    "top-8",
+    "bottom-8"
+  ],
+  "-inset-y-8": [
+    "-top-8",
+    "-bottom-8"
+  ],
+  "inset-9": [
+    "top-9",
+    "right-9",
+    "bottom-9",
+    "left-9"
+  ],
+  "-inset-9": [
+    "-top-9",
+    "-right-9",
+    "-bottom-9",
+    "-left-9"
+  ],
+  "inset-y-9": [
+    "top-9",
+    "bottom-9"
+  ],
+  "-inset-y-9": [
+    "-top-9",
+    "-bottom-9"
+  ],
+  "inset-10": [
+    "top-10",
+    "right-10",
+    "bottom-10",
+    "left-10"
+  ],
+  "-inset-10": [
+    "-top-10",
+    "-right-10",
+    "-bottom-10",
+    "-left-10"
+  ],
+  "inset-y-10": [
+    "top-10",
+    "bottom-10"
+  ],
+  "-inset-y-10": [
+    "-top-10",
+    "-bottom-10"
+  ],
+  "inset-11": [
+    "top-11",
+    "right-11",
+    "bottom-11",
+    "left-11"
+  ],
+  "-inset-11": [
+    "-top-11",
+    "-right-11",
+    "-bottom-11",
+    "-left-11"
+  ],
+  "inset-y-11": [
+    "top-11",
+    "bottom-11"
+  ],
+  "-inset-y-11": [
+    "-top-11",
+    "-bottom-11"
+  ],
+  "inset-12": [
+    "top-12",
+    "right-12",
+    "bottom-12",
+    "left-12"
+  ],
+  "-inset-12": [
+    "-top-12",
+    "-right-12",
+    "-bottom-12",
+    "-left-12"
+  ],
+  "inset-y-12": [
+    "top-12",
+    "bottom-12"
+  ],
+  "-inset-y-12": [
+    "-top-12",
+    "-bottom-12"
+  ],
+  "inset-14": [
+    "top-14",
+    "right-14",
+    "bottom-14",
+    "left-14"
+  ],
+  "-inset-14": [
+    "-top-14",
+    "-right-14",
+    "-bottom-14",
+    "-left-14"
+  ],
+  "inset-y-14": [
+    "top-14",
+    "bottom-14"
+  ],
+  "-inset-y-14": [
+    "-top-14",
+    "-bottom-14"
+  ],
+  "inset-16": [
+    "top-16",
+    "right-16",
+    "bottom-16",
+    "left-16"
+  ],
+  "-inset-16": [
+    "-top-16",
+    "-right-16",
+    "-bottom-16",
+    "-left-16"
+  ],
+  "inset-y-16": [
+    "top-16",
+    "bottom-16"
+  ],
+  "-inset-y-16": [
+    "-top-16",
+    "-bottom-16"
+  ],
+  "inset-20": [
+    "top-20",
+    "right-20",
+    "bottom-20",
+    "left-20"
+  ],
+  "-inset-20": [
+    "-top-20",
+    "-right-20",
+    "-bottom-20",
+    "-left-20"
+  ],
+  "inset-y-20": [
+    "top-20",
+    "bottom-20"
+  ],
+  "-inset-y-20": [
+    "-top-20",
+    "-bottom-20"
+  ],
+  "inset-24": [
+    "top-24",
+    "right-24",
+    "bottom-24",
+    "left-24"
+  ],
+  "-inset-24": [
+    "-top-24",
+    "-right-24",
+    "-bottom-24",
+    "-left-24"
+  ],
+  "inset-y-24": [
+    "top-24",
+    "bottom-24"
+  ],
+  "-inset-y-24": [
+    "-top-24",
+    "-bottom-24"
+  ],
+  "inset-28": [
+    "top-28",
+    "right-28",
+    "bottom-28",
+    "left-28"
+  ],
+  "-inset-28": [
+    "-top-28",
+    "-right-28",
+    "-bottom-28",
+    "-left-28"
+  ],
+  "inset-y-28": [
+    "top-28",
+    "bottom-28"
+  ],
+  "-inset-y-28": [
+    "-top-28",
+    "-bottom-28"
+  ],
+  "inset-32": [
+    "top-32",
+    "right-32",
+    "bottom-32",
+    "left-32"
+  ],
+  "-inset-32": [
+    "-top-32",
+    "-right-32",
+    "-bottom-32",
+    "-left-32"
+  ],
+  "inset-y-32": [
+    "top-32",
+    "bottom-32"
+  ],
+  "-inset-y-32": [
+    "-top-32",
+    "-bottom-32"
+  ],
+  "inset-36": [
+    "top-36",
+    "right-36",
+    "bottom-36",
+    "left-36"
+  ],
+  "-inset-36": [
+    "-top-36",
+    "-right-36",
+    "-bottom-36",
+    "-left-36"
+  ],
+  "inset-y-36": [
+    "top-36",
+    "bottom-36"
+  ],
+  "-inset-y-36": [
+    "-top-36",
+    "-bottom-36"
+  ],
+  "inset-40": [
+    "top-40",
+    "right-40",
+    "bottom-40",
+    "left-40"
+  ],
+  "-inset-40": [
+    "-top-40",
+    "-right-40",
+    "-bottom-40",
+    "-left-40"
+  ],
+  "inset-y-40": [
+    "top-40",
+    "bottom-40"
+  ],
+  "-inset-y-40": [
+    "-top-40",
+    "-bottom-40"
+  ],
+  "inset-44": [
+    "top-44",
+    "right-44",
+    "bottom-44",
+    "left-44"
+  ],
+  "-inset-44": [
+    "-top-44",
+    "-right-44",
+    "-bottom-44",
+    "-left-44"
+  ],
+  "inset-y-44": [
+    "top-44",
+    "bottom-44"
+  ],
+  "-inset-y-44": [
+    "-top-44",
+    "-bottom-44"
+  ],
+  "inset-48": [
+    "top-48",
+    "right-48",
+    "bottom-48",
+    "left-48"
+  ],
+  "-inset-48": [
+    "-top-48",
+    "-right-48",
+    "-bottom-48",
+    "-left-48"
+  ],
+  "inset-y-48": [
+    "top-48",
+    "bottom-48"
+  ],
+  "-inset-y-48": [
+    "-top-48",
+    "-bottom-48"
+  ],
+  "inset-52": [
+    "top-52",
+    "right-52",
+    "bottom-52",
+    "left-52"
+  ],
+  "-inset-52": [
+    "-top-52",
+    "-right-52",
+    "-bottom-52",
+    "-left-52"
+  ],
+  "inset-y-52": [
+    "top-52",
+    "bottom-52"
+  ],
+  "-inset-y-52": [
+    "-top-52",
+    "-bottom-52"
+  ],
+  "inset-56": [
+    "top-56",
+    "right-56",
+    "bottom-56",
+    "left-56"
+  ],
+  "-inset-56": [
+    "-top-56",
+    "-right-56",
+    "-bottom-56",
+    "-left-56"
+  ],
+  "inset-y-56": [
+    "top-56",
+    "bottom-56"
+  ],
+  "-inset-y-56": [
+    "-top-56",
+    "-bottom-56"
+  ],
+  "inset-60": [
+    "top-60",
+    "right-60",
+    "bottom-60",
+    "left-60"
+  ],
+  "-inset-60": [
+    "-top-60",
+    "-right-60",
+    "-bottom-60",
+    "-left-60"
+  ],
+  "inset-y-60": [
+    "top-60",
+    "bottom-60"
+  ],
+  "-inset-y-60": [
+    "-top-60",
+    "-bottom-60"
+  ],
+  "inset-64": [
+    "top-64",
+    "right-64",
+    "bottom-64",
+    "left-64"
+  ],
+  "-inset-64": [
+    "-top-64",
+    "-right-64",
+    "-bottom-64",
+    "-left-64"
+  ],
+  "inset-y-64": [
+    "top-64",
+    "bottom-64"
+  ],
+  "-inset-y-64": [
+    "-top-64",
+    "-bottom-64"
+  ],
+  "inset-72": [
+    "top-72",
+    "right-72",
+    "bottom-72",
+    "left-72"
+  ],
+  "-inset-72": [
+    "-top-72",
+    "-right-72",
+    "-bottom-72",
+    "-left-72"
+  ],
+  "inset-y-72": [
+    "top-72",
+    "bottom-72"
+  ],
+  "-inset-y-72": [
+    "-top-72",
+    "-bottom-72"
+  ],
+  "inset-80": [
+    "top-80",
+    "right-80",
+    "bottom-80",
+    "left-80"
+  ],
+  "-inset-80": [
+    "-top-80",
+    "-right-80",
+    "-bottom-80",
+    "-left-80"
+  ],
+  "inset-y-80": [
+    "top-80",
+    "bottom-80"
+  ],
+  "-inset-y-80": [
+    "-top-80",
+    "-bottom-80"
+  ],
+  "inset-96": [
+    "top-96",
+    "right-96",
+    "bottom-96",
+    "left-96"
+  ],
+  "-inset-96": [
+    "-top-96",
+    "-right-96",
+    "-bottom-96",
+    "-left-96"
+  ],
+  "inset-y-96": [
+    "top-96",
+    "bottom-96"
+  ],
+  "-inset-y-96": [
+    "-top-96",
+    "-bottom-96"
+  ],
+  "inset-auto": [
+    "top-auto",
+    "right-auto",
+    "bottom-auto",
+    "left-auto"
+  ],
+  "inset-px": [
+    "top-px",
+    "right-px",
+    "bottom-px",
+    "left-px"
+  ],
+  "-inset-px": [
+    "-top-px",
+    "-right-px",
+    "-bottom-px",
+    "-left-px"
+  ],
+  "inset-2/4": [
+    "top-2/4",
+    "right-2/4",
+    "bottom-2/4",
+    "left-2/4"
+  ],
+  "inset-1/3": [
+    "top-1/3",
+    "right-1/3",
+    "bottom-1/3",
+    "left-1/3"
+  ],
+  "inset-2/3": [
+    "top-2/3",
+    "right-2/3",
+    "bottom-2/3",
+    "left-2/3"
+  ],
+  "inset-1/4": [
+    "top-1/4",
+    "right-1/4",
+    "bottom-1/4",
+    "left-1/4"
+  ],
+  "inset-3/4": [
+    "top-3/4",
+    "right-3/4",
+    "bottom-3/4",
+    "left-3/4"
+  ],
+  "inset-full": [
+    "top-full",
+    "right-full",
+    "bottom-full",
+    "left-full"
+  ],
+  "-inset-2/4": [
+    "-top-2/4",
+    "-right-2/4",
+    "-bottom-2/4",
+    "-left-2/4"
+  ],
+  "-inset-1/3": [
+    "-top-1/3",
+    "-right-1/3",
+    "-bottom-1/3",
+    "-left-1/3"
+  ],
+  "-inset-2/3": [
+    "-top-2/3",
+    "-right-2/3",
+    "-bottom-2/3",
+    "-left-2/3"
+  ],
+  "-inset-1/4": [
+    "-top-1/4",
+    "-right-1/4",
+    "-bottom-1/4",
+    "-left-1/4"
+  ],
+  "-inset-3/4": [
+    "-top-3/4",
+    "-right-3/4",
+    "-bottom-3/4",
+    "-left-3/4"
+  ],
+  "-inset-full": [
+    "-top-full",
+    "-right-full",
+    "-bottom-full",
+    "-left-full"
+  ],
+  "inset-y-auto": [
+    "top-auto",
+    "bottom-auto"
+  ],
+  "inset-y-px": [
+    "top-px",
+    "bottom-px"
+  ],
+  "-inset-y-px": [
+    "-top-px",
+    "-bottom-px"
+  ],
+  "inset-y-2/4": [
+    "top-2/4",
+    "bottom-2/4"
+  ],
+  "inset-y-1/3": [
+    "top-1/3",
+    "bottom-1/3"
+  ],
+  "inset-y-2/3": [
+    "top-2/3",
+    "bottom-2/3"
+  ],
+  "inset-y-1/4": [
+    "top-1/4",
+    "bottom-1/4"
+  ],
+  "inset-y-3/4": [
+    "top-3/4",
+    "bottom-3/4"
+  ],
+  "inset-y-full": [
+    "top-full",
+    "bottom-full"
+  ],
+  "-inset-y-2/4": [
+    "-top-2/4",
+    "-bottom-2/4"
+  ],
+  "-inset-y-1/3": [
+    "-top-1/3",
+    "-bottom-1/3"
+  ],
+  "-inset-y-2/3": [
+    "-top-2/3",
+    "-bottom-2/3"
+  ],
+  "-inset-y-1/4": [
+    "-top-1/4",
+    "-bottom-1/4"
+  ],
+  "-inset-y-3/4": [
+    "-top-3/4",
+    "-bottom-3/4"
+  ],
+  "-inset-y-full": [
+    "-top-full",
+    "-bottom-full"
+  ],
+  "-inset-x-0": [
+    "-right-0",
+    "-left-0"
+  ],
+  "inset-x-0.5": [
+    "right-0.5",
+    "left-0.5"
+  ],
+  "-inset-x-0.5": [
+    "-right-0.5",
+    "-left-0.5"
+  ],
+  "inset-x-1": [
+    "right-1",
+    "left-1"
+  ],
+  "-inset-x-1": [
+    "-right-1",
+    "-left-1"
+  ],
+  "inset-x-1.5": [
+    "right-1.5",
+    "left-1.5"
+  ],
+  "-inset-x-1.5": [
+    "-right-1.5",
+    "-left-1.5"
+  ],
+  "inset-x-2": [
+    "right-2",
+    "left-2"
+  ],
+  "-inset-x-2": [
+    "-right-2",
+    "-left-2"
+  ],
+  "inset-x-2.5": [
+    "right-2.5",
+    "left-2.5"
+  ],
+  "-inset-x-2.5": [
+    "-right-2.5",
+    "-left-2.5"
+  ],
+  "inset-x-3": [
+    "right-3",
+    "left-3"
+  ],
+  "-inset-x-3": [
+    "-right-3",
+    "-left-3"
+  ],
+  "inset-x-3.5": [
+    "right-3.5",
+    "left-3.5"
+  ],
+  "-inset-x-3.5": [
+    "-right-3.5",
+    "-left-3.5"
+  ],
+  "inset-x-4": [
+    "right-4",
+    "left-4"
+  ],
+  "-inset-x-4": [
+    "-right-4",
+    "-left-4"
+  ],
+  "inset-x-5": [
+    "right-5",
+    "left-5"
+  ],
+  "-inset-x-5": [
+    "-right-5",
+    "-left-5"
+  ],
+  "inset-x-6": [
+    "right-6",
+    "left-6"
+  ],
+  "-inset-x-6": [
+    "-right-6",
+    "-left-6"
+  ],
+  "inset-x-7": [
+    "right-7",
+    "left-7"
+  ],
+  "-inset-x-7": [
+    "-right-7",
+    "-left-7"
+  ],
+  "inset-x-8": [
+    "right-8",
+    "left-8"
+  ],
+  "-inset-x-8": [
+    "-right-8",
+    "-left-8"
+  ],
+  "inset-x-9": [
+    "right-9",
+    "left-9"
+  ],
+  "-inset-x-9": [
+    "-right-9",
+    "-left-9"
+  ],
+  "inset-x-10": [
+    "right-10",
+    "left-10"
+  ],
+  "-inset-x-10": [
+    "-right-10",
+    "-left-10"
+  ],
+  "inset-x-11": [
+    "right-11",
+    "left-11"
+  ],
+  "-inset-x-11": [
+    "-right-11",
+    "-left-11"
+  ],
+  "inset-x-12": [
+    "right-12",
+    "left-12"
+  ],
+  "-inset-x-12": [
+    "-right-12",
+    "-left-12"
+  ],
+  "inset-x-14": [
+    "right-14",
+    "left-14"
+  ],
+  "-inset-x-14": [
+    "-right-14",
+    "-left-14"
+  ],
+  "inset-x-16": [
+    "right-16",
+    "left-16"
+  ],
+  "-inset-x-16": [
+    "-right-16",
+    "-left-16"
+  ],
+  "inset-x-20": [
+    "right-20",
+    "left-20"
+  ],
+  "-inset-x-20": [
+    "-right-20",
+    "-left-20"
+  ],
+  "inset-x-24": [
+    "right-24",
+    "left-24"
+  ],
+  "-inset-x-24": [
+    "-right-24",
+    "-left-24"
+  ],
+  "inset-x-28": [
+    "right-28",
+    "left-28"
+  ],
+  "-inset-x-28": [
+    "-right-28",
+    "-left-28"
+  ],
+  "inset-x-32": [
+    "right-32",
+    "left-32"
+  ],
+  "-inset-x-32": [
+    "-right-32",
+    "-left-32"
+  ],
+  "inset-x-36": [
+    "right-36",
+    "left-36"
+  ],
+  "-inset-x-36": [
+    "-right-36",
+    "-left-36"
+  ],
+  "inset-x-40": [
+    "right-40",
+    "left-40"
+  ],
+  "-inset-x-40": [
+    "-right-40",
+    "-left-40"
+  ],
+  "inset-x-44": [
+    "right-44",
+    "left-44"
+  ],
+  "-inset-x-44": [
+    "-right-44",
+    "-left-44"
+  ],
+  "inset-x-48": [
+    "right-48",
+    "left-48"
+  ],
+  "-inset-x-48": [
+    "-right-48",
+    "-left-48"
+  ],
+  "inset-x-52": [
+    "right-52",
+    "left-52"
+  ],
+  "-inset-x-52": [
+    "-right-52",
+    "-left-52"
+  ],
+  "inset-x-56": [
+    "right-56",
+    "left-56"
+  ],
+  "-inset-x-56": [
+    "-right-56",
+    "-left-56"
+  ],
+  "inset-x-60": [
+    "right-60",
+    "left-60"
+  ],
+  "-inset-x-60": [
+    "-right-60",
+    "-left-60"
+  ],
+  "inset-x-64": [
+    "right-64",
+    "left-64"
+  ],
+  "-inset-x-64": [
+    "-right-64",
+    "-left-64"
+  ],
+  "inset-x-72": [
+    "right-72",
+    "left-72"
+  ],
+  "-inset-x-72": [
+    "-right-72",
+    "-left-72"
+  ],
+  "inset-x-80": [
+    "right-80",
+    "left-80"
+  ],
+  "-inset-x-80": [
+    "-right-80",
+    "-left-80"
+  ],
+  "inset-x-96": [
+    "right-96",
+    "left-96"
+  ],
+  "-inset-x-96": [
+    "-right-96",
+    "-left-96"
+  ],
+  "inset-x-auto": [
+    "right-auto",
+    "left-auto"
+  ],
+  "inset-x-px": [
+    "right-px",
+    "left-px"
+  ],
+  "-inset-x-px": [
+    "-right-px",
+    "-left-px"
+  ],
+  "inset-x-2/4": [
+    "right-2/4",
+    "left-2/4"
+  ],
+  "inset-x-1/3": [
+    "right-1/3",
+    "left-1/3"
+  ],
+  "inset-x-2/3": [
+    "right-2/3",
+    "left-2/3"
+  ],
+  "inset-x-1/4": [
+    "right-1/4",
+    "left-1/4"
+  ],
+  "inset-x-3/4": [
+    "right-3/4",
+    "left-3/4"
+  ],
+  "inset-x-full": [
+    "right-full",
+    "left-full"
+  ],
+  "-inset-x-2/4": [
+    "-right-2/4",
+    "-left-2/4"
+  ],
+  "-inset-x-1/3": [
+    "-right-1/3",
+    "-left-1/3"
+  ],
+  "-inset-x-2/3": [
+    "-right-2/3",
+    "-left-2/3"
+  ],
+  "-inset-x-1/4": [
+    "-right-1/4",
+    "-left-1/4"
+  ],
+  "-inset-x-3/4": [
+    "-right-3/4",
+    "-left-3/4"
+  ],
+  "-inset-x-full": [
+    "-right-full",
+    "-left-full"
+  ],
+  "py-0": [
+    "pt-0",
+    "pb-0"
+  ],
+  "py-0.5": [
+    "pt-0.5",
+    "pb-0.5"
+  ],
+  "py-1": [
+    "pt-1",
+    "pb-1"
+  ],
+  "py-1.5": [
+    "pt-1.5",
+    "pb-1.5"
+  ],
+  "py-2": [
+    "pt-2",
+    "pb-2"
+  ],
+  "py-2.5": [
+    "pt-2.5",
+    "pb-2.5"
+  ],
+  "py-3": [
+    "pt-3",
+    "pb-3"
+  ],
+  "py-3.5": [
+    "pt-3.5",
+    "pb-3.5"
+  ],
+  "py-4": [
+    "pt-4",
+    "pb-4"
+  ],
+  "py-5": [
+    "pt-5",
+    "pb-5"
+  ],
+  "py-6": [
+    "pt-6",
+    "pb-6"
+  ],
+  "py-7": [
+    "pt-7",
+    "pb-7"
+  ],
+  "py-8": [
+    "pt-8",
+    "pb-8"
+  ],
+  "py-9": [
+    "pt-9",
+    "pb-9"
+  ],
+  "py-10": [
+    "pt-10",
+    "pb-10"
+  ],
+  "py-11": [
+    "pt-11",
+    "pb-11"
+  ],
+  "py-12": [
+    "pt-12",
+    "pb-12"
+  ],
+  "py-14": [
+    "pt-14",
+    "pb-14"
+  ],
+  "py-16": [
+    "pt-16",
+    "pb-16"
+  ],
+  "py-20": [
+    "pt-20",
+    "pb-20"
+  ],
+  "py-24": [
+    "pt-24",
+    "pb-24"
+  ],
+  "py-28": [
+    "pt-28",
+    "pb-28"
+  ],
+  "py-32": [
+    "pt-32",
+    "pb-32"
+  ],
+  "py-36": [
+    "pt-36",
+    "pb-36"
+  ],
+  "py-40": [
+    "pt-40",
+    "pb-40"
+  ],
+  "py-44": [
+    "pt-44",
+    "pb-44"
+  ],
+  "py-48": [
+    "pt-48",
+    "pb-48"
+  ],
+  "py-52": [
+    "pt-52",
+    "pb-52"
+  ],
+  "py-56": [
+    "pt-56",
+    "pb-56"
+  ],
+  "py-60": [
+    "pt-60",
+    "pb-60"
+  ],
+  "py-64": [
+    "pt-64",
+    "pb-64"
+  ],
+  "py-72": [
+    "pt-72",
+    "pb-72"
+  ],
+  "py-80": [
+    "pt-80",
+    "pb-80"
+  ],
+  "py-96": [
+    "pt-96",
+    "pb-96"
+  ],
+  "py-px": [
+    "pt-px",
+    "pb-px"
+  ],
+  "px-0": [
+    "pl-0",
+    "pr-0"
+  ],
+  "px-0.5": [
+    "pl-0.5",
+    "pr-0.5"
+  ],
+  "px-1": [
+    "pl-1",
+    "pr-1"
+  ],
+  "px-1.5": [
+    "pl-1.5",
+    "pr-1.5"
+  ],
+  "px-2": [
+    "pl-2",
+    "pr-2"
+  ],
+  "px-2.5": [
+    "pl-2.5",
+    "pr-2.5"
+  ],
+  "px-3": [
+    "pl-3",
+    "pr-3"
+  ],
+  "px-3.5": [
+    "pl-3.5",
+    "pr-3.5"
+  ],
+  "px-4": [
+    "pl-4",
+    "pr-4"
+  ],
+  "px-5": [
+    "pl-5",
+    "pr-5"
+  ],
+  "px-6": [
+    "pl-6",
+    "pr-6"
+  ],
+  "px-7": [
+    "pl-7",
+    "pr-7"
+  ],
+  "px-8": [
+    "pl-8",
+    "pr-8"
+  ],
+  "px-9": [
+    "pl-9",
+    "pr-9"
+  ],
+  "px-10": [
+    "pl-10",
+    "pr-10"
+  ],
+  "px-11": [
+    "pl-11",
+    "pr-11"
+  ],
+  "px-12": [
+    "pl-12",
+    "pr-12"
+  ],
+  "px-14": [
+    "pl-14",
+    "pr-14"
+  ],
+  "px-16": [
+    "pl-16",
+    "pr-16"
+  ],
+  "px-20": [
+    "pl-20",
+    "pr-20"
+  ],
+  "px-24": [
+    "pl-24",
+    "pr-24"
+  ],
+  "px-28": [
+    "pl-28",
+    "pr-28"
+  ],
+  "px-32": [
+    "pl-32",
+    "pr-32"
+  ],
+  "px-36": [
+    "pl-36",
+    "pr-36"
+  ],
+  "px-40": [
+    "pl-40",
+    "pr-40"
+  ],
+  "px-44": [
+    "pl-44",
+    "pr-44"
+  ],
+  "px-48": [
+    "pl-48",
+    "pr-48"
+  ],
+  "px-52": [
+    "pl-52",
+    "pr-52"
+  ],
+  "px-56": [
+    "pl-56",
+    "pr-56"
+  ],
+  "px-60": [
+    "pl-60",
+    "pr-60"
+  ],
+  "px-64": [
+    "pl-64",
+    "pr-64"
+  ],
+  "px-72": [
+    "pl-72",
+    "pr-72"
+  ],
+  "px-80": [
+    "pl-80",
+    "pr-80"
+  ],
+  "px-96": [
+    "pl-96",
+    "pr-96"
+  ],
+  "px-px": [
+    "pl-px",
+    "pr-px"
+  ],
+  "-my-0": [
+    "-mt-0",
+    "-mb-0"
+  ],
+  "my-0.5": [
+    "mt-0.5",
+    "mb-0.5"
+  ],
+  "my-1": [
+    "mt-1",
+    "mb-1"
+  ],
+  "my-1.5": [
+    "mt-1.5",
+    "mb-1.5"
+  ],
+  "my-2": [
+    "mt-2",
+    "mb-2"
+  ],
+  "my-2.5": [
+    "mt-2.5",
+    "mb-2.5"
+  ],
+  "my-3": [
+    "mt-3",
+    "mb-3"
+  ],
+  "my-3.5": [
+    "mt-3.5",
+    "mb-3.5"
+  ],
+  "my-4": [
+    "mt-4",
+    "mb-4"
+  ],
+  "my-5": [
+    "mt-5",
+    "mb-5"
+  ],
+  "my-6": [
+    "mt-6",
+    "mb-6"
+  ],
+  "my-7": [
+    "mt-7",
+    "mb-7"
+  ],
+  "my-8": [
+    "mt-8",
+    "mb-8"
+  ],
+  "my-9": [
+    "mt-9",
+    "mb-9"
+  ],
+  "my-10": [
+    "mt-10",
+    "mb-10"
+  ],
+  "my-11": [
+    "mt-11",
+    "mb-11"
+  ],
+  "my-12": [
+    "mt-12",
+    "mb-12"
+  ],
+  "my-14": [
+    "mt-14",
+    "mb-14"
+  ],
+  "my-16": [
+    "mt-16",
+    "mb-16"
+  ],
+  "my-20": [
+    "mt-20",
+    "mb-20"
+  ],
+  "my-24": [
+    "mt-24",
+    "mb-24"
+  ],
+  "my-28": [
+    "mt-28",
+    "mb-28"
+  ],
+  "my-32": [
+    "mt-32",
+    "mb-32"
+  ],
+  "my-36": [
+    "mt-36",
+    "mb-36"
+  ],
+  "my-40": [
+    "mt-40",
+    "mb-40"
+  ],
+  "my-44": [
+    "mt-44",
+    "mb-44"
+  ],
+  "my-48": [
+    "mt-48",
+    "mb-48"
+  ],
+  "my-52": [
+    "mt-52",
+    "mb-52"
+  ],
+  "my-56": [
+    "mt-56",
+    "mb-56"
+  ],
+  "my-60": [
+    "mt-60",
+    "mb-60"
+  ],
+  "my-64": [
+    "mt-64",
+    "mb-64"
+  ],
+  "my-72": [
+    "mt-72",
+    "mb-72"
+  ],
+  "my-80": [
+    "mt-80",
+    "mb-80"
+  ],
+  "my-96": [
+    "mt-96",
+    "mb-96"
+  ],
+  "my-auto": [
+    "mt-auto",
+    "mb-auto"
+  ],
+  "my-px": [
+    "mt-px",
+    "mb-px"
+  ],
+  "-my-0.5": [
+    "-mt-0.5",
+    "-mb-0.5"
+  ],
+  "-my-1": [
+    "-mt-1",
+    "-mb-1"
+  ],
+  "-my-1.5": [
+    "-mt-1.5",
+    "-mb-1.5"
+  ],
+  "-my-2": [
+    "-mt-2",
+    "-mb-2"
+  ],
+  "-my-2.5": [
+    "-mt-2.5",
+    "-mb-2.5"
+  ],
+  "-my-3": [
+    "-mt-3",
+    "-mb-3"
+  ],
+  "-my-3.5": [
+    "-mt-3.5",
+    "-mb-3.5"
+  ],
+  "-my-4": [
+    "-mt-4",
+    "-mb-4"
+  ],
+  "-my-5": [
+    "-mt-5",
+    "-mb-5"
+  ],
+  "-my-6": [
+    "-mt-6",
+    "-mb-6"
+  ],
+  "-my-7": [
+    "-mt-7",
+    "-mb-7"
+  ],
+  "-my-8": [
+    "-mt-8",
+    "-mb-8"
+  ],
+  "-my-9": [
+    "-mt-9",
+    "-mb-9"
+  ],
+  "-my-10": [
+    "-mt-10",
+    "-mb-10"
+  ],
+  "-my-11": [
+    "-mt-11",
+    "-mb-11"
+  ],
+  "-my-12": [
+    "-mt-12",
+    "-mb-12"
+  ],
+  "-my-14": [
+    "-mt-14",
+    "-mb-14"
+  ],
+  "-my-16": [
+    "-mt-16",
+    "-mb-16"
+  ],
+  "-my-20": [
+    "-mt-20",
+    "-mb-20"
+  ],
+  "-my-24": [
+    "-mt-24",
+    "-mb-24"
+  ],
+  "-my-28": [
+    "-mt-28",
+    "-mb-28"
+  ],
+  "-my-32": [
+    "-mt-32",
+    "-mb-32"
+  ],
+  "-my-36": [
+    "-mt-36",
+    "-mb-36"
+  ],
+  "-my-40": [
+    "-mt-40",
+    "-mb-40"
+  ],
+  "-my-44": [
+    "-mt-44",
+    "-mb-44"
+  ],
+  "-my-48": [
+    "-mt-48",
+    "-mb-48"
+  ],
+  "-my-52": [
+    "-mt-52",
+    "-mb-52"
+  ],
+  "-my-56": [
+    "-mt-56",
+    "-mb-56"
+  ],
+  "-my-60": [
+    "-mt-60",
+    "-mb-60"
+  ],
+  "-my-64": [
+    "-mt-64",
+    "-mb-64"
+  ],
+  "-my-72": [
+    "-mt-72",
+    "-mb-72"
+  ],
+  "-my-80": [
+    "-mt-80",
+    "-mb-80"
+  ],
+  "-my-96": [
+    "-mt-96",
+    "-mb-96"
+  ],
+  "-my-px": [
+    "-mt-px",
+    "-mb-px"
+  ],
+  "-mx-0": [
+    "-ml-0",
+    "-mr-0"
+  ],
+  "mx-0.5": [
+    "ml-0.5",
+    "mr-0.5"
+  ],
+  "mx-1": [
+    "ml-1",
+    "mr-1"
+  ],
+  "mx-1.5": [
+    "ml-1.5",
+    "mr-1.5"
+  ],
+  "mx-2": [
+    "ml-2",
+    "mr-2"
+  ],
+  "mx-2.5": [
+    "ml-2.5",
+    "mr-2.5"
+  ],
+  "mx-3": [
+    "ml-3",
+    "mr-3"
+  ],
+  "mx-3.5": [
+    "ml-3.5",
+    "mr-3.5"
+  ],
+  "mx-4": [
+    "ml-4",
+    "mr-4"
+  ],
+  "mx-5": [
+    "ml-5",
+    "mr-5"
+  ],
+  "mx-6": [
+    "ml-6",
+    "mr-6"
+  ],
+  "mx-7": [
+    "ml-7",
+    "mr-7"
+  ],
+  "mx-8": [
+    "ml-8",
+    "mr-8"
+  ],
+  "mx-9": [
+    "ml-9",
+    "mr-9"
+  ],
+  "mx-10": [
+    "ml-10",
+    "mr-10"
+  ],
+  "mx-11": [
+    "ml-11",
+    "mr-11"
+  ],
+  "mx-12": [
+    "ml-12",
+    "mr-12"
+  ],
+  "mx-14": [
+    "ml-14",
+    "mr-14"
+  ],
+  "mx-16": [
+    "ml-16",
+    "mr-16"
+  ],
+  "mx-20": [
+    "ml-20",
+    "mr-20"
+  ],
+  "mx-24": [
+    "ml-24",
+    "mr-24"
+  ],
+  "mx-28": [
+    "ml-28",
+    "mr-28"
+  ],
+  "mx-32": [
+    "ml-32",
+    "mr-32"
+  ],
+  "mx-36": [
+    "ml-36",
+    "mr-36"
+  ],
+  "mx-40": [
+    "ml-40",
+    "mr-40"
+  ],
+  "mx-44": [
+    "ml-44",
+    "mr-44"
+  ],
+  "mx-48": [
+    "ml-48",
+    "mr-48"
+  ],
+  "mx-52": [
+    "ml-52",
+    "mr-52"
+  ],
+  "mx-56": [
+    "ml-56",
+    "mr-56"
+  ],
+  "mx-60": [
+    "ml-60",
+    "mr-60"
+  ],
+  "mx-64": [
+    "ml-64",
+    "mr-64"
+  ],
+  "mx-72": [
+    "ml-72",
+    "mr-72"
+  ],
+  "mx-80": [
+    "ml-80",
+    "mr-80"
+  ],
+  "mx-96": [
+    "ml-96",
+    "mr-96"
+  ],
+  "mx-auto": [
+    "ml-auto",
+    "mr-auto"
+  ],
+  "mx-px": [
+    "ml-px",
+    "mr-px"
+  ],
+  "-mx-0.5": [
+    "-ml-0.5",
+    "-mr-0.5"
+  ],
+  "-mx-1": [
+    "-ml-1",
+    "-mr-1"
+  ],
+  "-mx-1.5": [
+    "-ml-1.5",
+    "-mr-1.5"
+  ],
+  "-mx-2": [
+    "-ml-2",
+    "-mr-2"
+  ],
+  "-mx-2.5": [
+    "-ml-2.5",
+    "-mr-2.5"
+  ],
+  "-mx-3": [
+    "-ml-3",
+    "-mr-3"
+  ],
+  "-mx-3.5": [
+    "-ml-3.5",
+    "-mr-3.5"
+  ],
+  "-mx-4": [
+    "-ml-4",
+    "-mr-4"
+  ],
+  "-mx-5": [
+    "-ml-5",
+    "-mr-5"
+  ],
+  "-mx-6": [
+    "-ml-6",
+    "-mr-6"
+  ],
+  "-mx-7": [
+    "-ml-7",
+    "-mr-7"
+  ],
+  "-mx-8": [
+    "-ml-8",
+    "-mr-8"
+  ],
+  "-mx-9": [
+    "-ml-9",
+    "-mr-9"
+  ],
+  "-mx-10": [
+    "-ml-10",
+    "-mr-10"
+  ],
+  "-mx-11": [
+    "-ml-11",
+    "-mr-11"
+  ],
+  "-mx-12": [
+    "-ml-12",
+    "-mr-12"
+  ],
+  "-mx-14": [
+    "-ml-14",
+    "-mr-14"
+  ],
+  "-mx-16": [
+    "-ml-16",
+    "-mr-16"
+  ],
+  "-mx-20": [
+    "-ml-20",
+    "-mr-20"
+  ],
+  "-mx-24": [
+    "-ml-24",
+    "-mr-24"
+  ],
+  "-mx-28": [
+    "-ml-28",
+    "-mr-28"
+  ],
+  "-mx-32": [
+    "-ml-32",
+    "-mr-32"
+  ],
+  "-mx-36": [
+    "-ml-36",
+    "-mr-36"
+  ],
+  "-mx-40": [
+    "-ml-40",
+    "-mr-40"
+  ],
+  "-mx-44": [
+    "-ml-44",
+    "-mr-44"
+  ],
+  "-mx-48": [
+    "-ml-48",
+    "-mr-48"
+  ],
+  "-mx-52": [
+    "-ml-52",
+    "-mr-52"
+  ],
+  "-mx-56": [
+    "-ml-56",
+    "-mr-56"
+  ],
+  "-mx-60": [
+    "-ml-60",
+    "-mr-60"
+  ],
+  "-mx-64": [
+    "-ml-64",
+    "-mr-64"
+  ],
+  "-mx-72": [
+    "-ml-72",
+    "-mr-72"
+  ],
+  "-mx-80": [
+    "-ml-80",
+    "-mr-80"
+  ],
+  "-mx-96": [
+    "-ml-96",
+    "-mr-96"
+  ],
+  "-mx-px": [
+    "-ml-px",
+    "-mr-px"
+  ],
+  "rounded-t-none": [
+    "rounded-tl-none",
+    "rounded-tr-none"
+  ],
+  "rounded-l-none": [
+    "rounded-tl-none",
+    "rounded-bl-none"
+  ],
+  "rounded-t-sm": [
+    "rounded-tl-sm",
+    "rounded-tr-sm"
+  ],
+  "rounded-l-sm": [
+    "rounded-tl-sm",
+    "rounded-bl-sm"
+  ],
+  "rounded-t": [
+    "rounded-tl",
+    "rounded-tr"
+  ],
+  "rounded-l": [
+    "rounded-tl",
+    "rounded-bl"
+  ],
+  "rounded-t-md": [
+    "rounded-tl-md",
+    "rounded-tr-md"
+  ],
+  "rounded-l-md": [
+    "rounded-tl-md",
+    "rounded-bl-md"
+  ],
+  "rounded-t-lg": [
+    "rounded-tl-lg",
+    "rounded-tr-lg"
+  ],
+  "rounded-l-lg": [
+    "rounded-tl-lg",
+    "rounded-bl-lg"
+  ],
+  "rounded-t-xl": [
+    "rounded-tl-xl",
+    "rounded-tr-xl"
+  ],
+  "rounded-l-xl": [
+    "rounded-tl-xl",
+    "rounded-bl-xl"
+  ],
+  "rounded-t-2xl": [
+    "rounded-tl-2xl",
+    "rounded-tr-2xl"
+  ],
+  "rounded-l-2xl": [
+    "rounded-tl-2xl",
+    "rounded-bl-2xl"
+  ],
+  "rounded-t-3xl": [
+    "rounded-tl-3xl",
+    "rounded-tr-3xl"
+  ],
+  "rounded-l-3xl": [
+    "rounded-tl-3xl",
+    "rounded-bl-3xl"
+  ],
+  "rounded-t-full": [
+    "rounded-tl-full",
+    "rounded-tr-full"
+  ],
+  "rounded-l-full": [
+    "rounded-tl-full",
+    "rounded-bl-full"
+  ],
+  "rounded-r-none": [
+    "rounded-tr-none",
+    "rounded-br-none"
+  ],
+  "rounded-r-sm": [
+    "rounded-tr-sm",
+    "rounded-br-sm"
+  ],
+  "rounded-r": [
+    "rounded-tr",
+    "rounded-br"
+  ],
+  "rounded-r-md": [
+    "rounded-tr-md",
+    "rounded-br-md"
+  ],
+  "rounded-r-lg": [
+    "rounded-tr-lg",
+    "rounded-br-lg"
+  ],
+  "rounded-r-xl": [
+    "rounded-tr-xl",
+    "rounded-br-xl"
+  ],
+  "rounded-r-2xl": [
+    "rounded-tr-2xl",
+    "rounded-br-2xl"
+  ],
+  "rounded-r-3xl": [
+    "rounded-tr-3xl",
+    "rounded-br-3xl"
+  ],
+  "rounded-r-full": [
+    "rounded-tr-full",
+    "rounded-br-full"
+  ],
+  "rounded-b-none": [
+    "rounded-br-none",
+    "rounded-bl-none"
+  ],
+  "rounded-b-sm": [
+    "rounded-br-sm",
+    "rounded-bl-sm"
+  ],
+  "rounded-b": [
+    "rounded-br",
+    "rounded-bl"
+  ],
+  "rounded-b-md": [
+    "rounded-br-md",
+    "rounded-bl-md"
+  ],
+  "rounded-b-lg": [
+    "rounded-br-lg",
+    "rounded-bl-lg"
+  ],
+  "rounded-b-xl": [
+    "rounded-br-xl",
+    "rounded-bl-xl"
+  ],
+  "rounded-b-2xl": [
+    "rounded-br-2xl",
+    "rounded-bl-2xl"
+  ],
+  "rounded-b-3xl": [
+    "rounded-br-3xl",
+    "rounded-bl-3xl"
+  ],
+  "rounded-b-full": [
+    "rounded-br-full",
+    "rounded-bl-full"
+  ]
+}

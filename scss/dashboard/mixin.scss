@@ -1,0 +1,55 @@
+@import '~@/scss/dashboard/theme.scss';
+@import '~@/scss/common/mixin.scss';
+
+//px转rem
+@function pxTorem($px){
+  @return $px / $browser-default-font-size * 1rem;
+}
+
+@mixin scroll-dashboard-bar{
+  overflow-y: auto;
+  overflow-x: hidden;
+  /*滚动条整体样式*/
+  &::-webkit-scrollbar {
+    width: pxTorem(7px);
+    height: 0;
+    position: relative;
+    background: transparent;
+  }
+  /*滚动条里面小方块*/
+  &::-webkit-scrollbar-thumb {
+    box-sizing: border-box;
+     -webkit-appearance: none;
+    background: transparent;
+    border-width: 0 pxTorem(4px) 0 pxTorem(3px);
+    border-left-color: rgba(3,90,153, 0.5);
+    border-right-color: transparent;
+    &:hover{
+      border-right-color: rgb(3,90,153);
+      border-left-color: rgb(3, 90, 153);
+    }
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-track-piece {
+    background: transparent;
+  }
+}
+
+
+
+@mixin bg-image-base($img-url) {
+  background-repeat: no-repeat;
+  background-image: url('#{$img-root}/#{$img-url}');
+  background-size: contain;
+}
+
+@function trans-list($list...){
+  $result: ();
+  @each $i in $list {
+    $result: append($result, $i);
+  }
+  @return $result
+}
+

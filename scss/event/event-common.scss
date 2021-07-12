@@ -1,0 +1,15 @@
+@import '../common/mixin.scss';
+
+.event{
+  @include flex-fill(column);
+  font-size: 12px;
+  background-color: #E3E6F5;
+    position: relative;
+    font-size: 12px;
+  &>*{
+    width: 100%;
+  }
+  .card-list{
+    flex: 1;
+  }
+}

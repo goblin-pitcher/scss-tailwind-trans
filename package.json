@@ -1,6 +1,6 @@
 {
   "name": "meg-scss-trans",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -13,12 +13,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1",
     "node-sass": "^6.0.1",
     "postcss": "^8.3.5",
     "yargs-parser": "^20.2.9"
   },
-  "devDependencies": {
-    "cheerio": "^1.0.0-rc.10",
-    "node-fetch": "^2.6.1"
-  }
+  "devDependencies": {}
 }

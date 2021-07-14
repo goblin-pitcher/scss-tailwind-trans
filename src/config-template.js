@@ -1,6 +1,9 @@
 const path = require('path');
+const { formatCssProp } = require('meg-scss-trans');
+// formatCssProp: (key: String, value: String) => `${key}: ${value};`
 
 // 需要转换的模块名
+// 转换指令：：npx scss-to-tailwind run
 const todoList = [
   'card-frame',
   'cascader',
@@ -41,6 +44,18 @@ module.exports = {
     // 是否强行将颜色转换为相近的tailwind颜色
     // 目前分析的规则和志刚定的规则不一致，暂时设为false
     approxColor: false,
+    // todo::: 后续应支持tailwind的拓展配置
+    // extend: Object
+    extend: {
+      // 需要直接翻译的属性
+      translate: {
+        // "outline: none": 'outline-none', // 这么写也可以，但是需要注意空格和分号
+        [formatCssProp('outline', 'none')]: 'outline-none',
+      },
+      // todo:: tailwind的extend拓展
+      // tailwind: {
+      // }
+    },
   },
   file: {
     // 需要转换的文件夹路径
@@ -51,6 +66,4 @@ module.exports = {
     // 若to是绝对路径，to即为输出路径
     to: './opt-[name].css',
   },
-  // todo::: 后续应支持tailwind的拓展配置
-  // extend: Object
 };

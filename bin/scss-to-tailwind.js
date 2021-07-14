@@ -2,7 +2,7 @@
 
 const fs = require("fs");
 const parser = require("yargs-parser");
-const { configPath } = require("../scss-trans/const");
+const { configPath } = require("../src/const");
 const { _: commands, ...argv } = parser(process.argv.slice(2), {
   // 配置暂时只支持配置文件
   alias: {},

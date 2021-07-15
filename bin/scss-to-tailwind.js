@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 const fs = require("fs");
 const parser = require("yargs-parser");
 const { configPath } = require("../src/const");

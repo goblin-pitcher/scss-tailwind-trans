@@ -51,6 +51,22 @@ module.exports = {
       translate: {
         // "outline: none": 'outline-none', // 这么写也可以，但是需要注意空格和分号
         [formatCssProp('outline', 'none')]: 'outline-none',
+        [formatCssProp('list-style', 'none')]: 'list-none',
+        // 以下颜色规则仅供参考
+        // 'color: #21539b;': 'text-primary',
+        // 'color: #869abb;': ['text-black', 'text-opacity-10'],
+        // 'color: #c7ced8;': ['text-black', 'text-opacity-20'],
+        // 'color: #a1a8b4;': ['text-black', 'text-opacity-30'],
+        // 'color: #435068;': ['text-black', 'text-opacity-60'],
+        // 'border-color: #000000;': 'border-black',
+        // 'border-color: #21539b;': 'border-primary',
+        // 'border-color: #bec2ca;': 'border-primary-300',
+        // 'border-color: rgba(210, 214, 222, 0.5);': 'border-opacity-50',
+
+        // 'background: #e6f2ff;': 'bg-primary-100',
+        // 'background: #a1a8b4;': 'bg-gray-100',
+        // 'background: #869abb;': ['bg-black', 'bg-opacity-20'],
+        // 'background: #f7f8f9;': 'bg-gray-400',
       },
       // todo:: tailwind的extend拓展
       // tailwind: {

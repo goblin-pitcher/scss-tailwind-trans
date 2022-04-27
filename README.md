@@ -70,7 +70,7 @@ npx scss-to-tailwind run // 开始执行转换
 npx scss-to-tailwind fetch 
 ````
 
-
+默认配置参见[配置](https://github.com/goblin-pitcher/scss-tailwind-trans/blob/master/src/config-template.js)
 
 ### 效果展示
 

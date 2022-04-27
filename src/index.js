@@ -5,6 +5,21 @@ const SimpleScssLoader = require("../lib/SimpleScssLoader");
 const tailwindTransPlugin = require("../lib/tailwind-trans-plugin");
 const FileTraverse = require("../lib/file-traverse");
 
+const mkdirAndWriteFileSync = (writePath, ...extraArgs) => {
+  const parseInfo = path.parse(writePath);
+  const {dir, name, ext} = parseInfo;
+  const tapPathArr = path.relative(process.cwd(), dir).split(/\\+/).filter(Boolean);
+  tapPathArr.reduce((p, dirName)=>{
+    const dirFileSet = new Set(fs.readdirSync(p))
+    if(!dirFileSet.has(dirName)) {
+      fs.mkdirSync(path.join(p, dirName))
+    }
+    p = path.join(p, dirName)
+    return p
+  }, process.cwd())
+  fs.writeFileSync(writePath, ...extraArgs)
+}
+
 const parseOutputName = (filePath, relativePath) => {
   if (!path.isAbsolute(filePath)) {
     const dirname = path.dirname(relativePath);
@@ -34,7 +49,7 @@ const scssTransTailwind = (options = {}) => {
     parseFileFunc(filePath).then((rst) => {
       if (!rst) return;
       const optUrl = parseOutputName(fileOpts.to, filePath);
-      fs.writeFileSync(optUrl, rst);
+      mkdirAndWriteFileSync(optUrl, rst);
     });
   };
   const fileTraverse = new FileTraverse({

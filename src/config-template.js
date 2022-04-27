@@ -1,5 +1,5 @@
 const path = require('path');
-const { formatCssProp } = require('meg-scss-trans');
+const { formatCssProp } = require('scss-tailwind-trans');
 // formatCssProp: (key: String, value: String) => `${key}: ${value};`
 
 // 需要转换的模块名

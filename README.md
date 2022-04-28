@@ -2,11 +2,11 @@
 
 ### 背景
 
-公司组件库升级，样式由scss转换为tailwind风格的css写法，纯手工转换工作量巨大，因此开发转换工具，重复性工作交由程序执行。
+公司组件库升级，样式由scss转换为tailwind风格的css写法。tailwind css的好处自不用说，但纯手工转换工作量巨大，因此开发转换工具，重复性工作交由程序执行。
 
 ### 思路
 
-首先分析IO，I为.scss文件，O为htailwind 风格的.css文件。.scss文件我们可以通过scss loader转换为原生css，其实核心工作就是原生css到tailwind css的转换。
+首先分析IO，I为.scss文件，O为tailwind 风格的.css文件。.scss文件我们可以通过scss loader转换为原生css，其实核心工作就是原生css到tailwind css的转换。
 
 [tailwind css官网](https://www.tailwindcss.cn/docs)提供了各个css样式所对应的tailwindp css配置，假设将所有配置对照表爬取下来，再逐一对照样式进行转换。
 
@@ -48,10 +48,11 @@ loader部分的使用代码地址为[SimpleScssLoader](https://github.com/goblin
 
 以上步骤对应的代码如下：
 
-+ 步骤1的官网信息爬取对应文件[spider](https://github.com/goblin-pitcher/scss-tailwind-trans/blob/master/src/gen-tailwind-resource.js)
++ 步骤1的官网信息爬取对应文件[spider](https://github.com/goblin-pitcher/scss-tailwind-trans/blob/master/src/gen-tailwind-resource.js)，爬取数据用的`cheerio`
 + 步骤2、3、4对应文件夹[translate](https://github.com/goblin-pitcher/scss-tailwind-trans/tree/master/lib/translate)
-  + 转换部分主要是[css-translate-to-tailwind](https://github.com/goblin-pitcher/scss-tailwind-trans/tree/master/lib/translate/css-translate-to-tailwind)
+  + 转换部分主要是[css-translate-to-tailwind](https://github.com/goblin-pitcher/scss-tailwind-trans/tree/master/lib/translate/css-translate-to-tailwind)，具体配置的分析可以看命名为`xxx-analysis`的文件或文件夹
   + 转换部分目前取近似值的主要是**大小**和**颜色**，大小可通过外部传入的`remTransFunc`方法转换，默认方法是取最近的值。颜色取近似值主要是计算r、g、b三者与对应tailwind颜色r、b、g的**方差**最小者。
+  + 合并原子tailwind属性的思路类似于求数组arr中，和为m的最短组合，这里直接用朴素的动态规划解决了，懒得做优化。。
 
 ### 写入文件
 
@@ -81,3 +82,4 @@ npx scss-to-tailwind fetch
 转换后:
 
 ![after](https://s1.ax1x.com/2022/04/27/LqBvkR.png)
+
